@@ -1,0 +1,34 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/hyuna/project_ws/build/turtle_table",
+        "/home/hyuna/project_ws/install/turtle_table/lib/python3.10/site-packages",
+        "/home/hyuna/project_ws/build/turtle_serving",
+        "/home/hyuna/project_ws/install/turtle_serving/lib/python3.10/site-packages",
+        "/home/hyuna/project_ws/build/turtle_kitchen",
+        "/home/hyuna/project_ws/install/turtle_kitchen/lib/python3.10/site-packages",
+        "/home/hyuna/project_ws/install/turtle_interfaces/local/lib/python3.10/dist-packages",
+        "/home/hyuna/turtlebot3_ws/build/turtlebot3_teleop",
+        "/home/hyuna/turtlebot3_ws/install/turtlebot3_teleop/lib/python3.10/site-packages",
+        "/home/hyuna/turtlebot3_ws/build/turtlebot3_example",
+        "/home/hyuna/turtlebot3_ws/install/turtlebot3_example/lib/python3.10/site-packages",
+        "/home/hyuna/turtlebot3_ws/install/turtlebot3_msgs/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/hyuna/project_ws/build/turtle_table",
+        "/home/hyuna/project_ws/install/turtle_table/lib/python3.10/site-packages",
+        "/home/hyuna/project_ws/build/turtle_serving",
+        "/home/hyuna/project_ws/install/turtle_serving/lib/python3.10/site-packages",
+        "/home/hyuna/project_ws/build/turtle_kitchen",
+        "/home/hyuna/project_ws/install/turtle_kitchen/lib/python3.10/site-packages",
+        "/home/hyuna/project_ws/install/turtle_interfaces/local/lib/python3.10/dist-packages",
+        "/home/hyuna/turtlebot3_ws/build/turtlebot3_teleop",
+        "/home/hyuna/turtlebot3_ws/install/turtlebot3_teleop/lib/python3.10/site-packages",
+        "/home/hyuna/turtlebot3_ws/build/turtlebot3_example",
+        "/home/hyuna/turtlebot3_ws/install/turtlebot3_example/lib/python3.10/site-packages",
+        "/home/hyuna/turtlebot3_ws/install/turtlebot3_msgs/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}

@@ -1,0 +1,12 @@
+# 목표(goal) 섹션 정의
+float32 x
+float32 y
+---
+
+# 결과(result) 
+bool success
+string message
+---
+
+# 피드백(feedback) 
+float32 progress
