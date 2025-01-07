@@ -1,0 +1,8 @@
+# 요청 필드 정의
+int32 table_number 
+---
+
+# 응답 필드 정의
+bool success
+string message
+bool is_valid
