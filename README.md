@@ -72,30 +72,17 @@ Gazebo와 Rviz2를 활용하여 사내 카페와 서빙 로봇을 결합한 커�
 
 
 
-명령어
--------------
-
-```
-ros2 launch turtlebot3_gazebo turtlebot3_world.launch.py
-ros2 launch turtlebot3_navigation2 navigation2.launch.py use_sim_time:=True map:=$HOME/map.yaml
-
-ros2 launch turtle_table turtle_table_launch.py
-ros2 launch turtle_kithcen turtle_kitchen_launch.py
-ros2 launch turtle_serving turtle_serving_launch.py
-
-```
-
 <br>
 
-결과 이미지
--------------
+**결과 이미지**
+
 
 ![썸네일](https://github.com/user-attachments/assets/a9a08523-2e82-4bdd-a49b-35def1179d53)
 
 <br>
 
-결과 동영상
--------------
+**결과 동영상**
+
 [![사내 카페 서빙 로봇 ](https://img.youtube.com/vi/FOsplIEOXMg/hqdefault.jpg)](https://www.youtube.com/watch?v=FOsplIEOXMg)
 
 
