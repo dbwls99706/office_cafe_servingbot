@@ -94,6 +94,16 @@ Install
 **1. Install packages**
 ```
 git clone https://github.com/Hyuna-319/office_cafe_servingbot.git
+
+sudo apt install ros-humble-gazebo-* -y
+sudo apt install ros-humble-cartographer -y
+sudo apt install ros-humble-cartographer-ros -y
+sudo apt install ros-humble-navigation2 -y
+sudo apt install ros-humble-nav2-bringup -y
+sudo apt install ros-humble-dynamixel-sdkv
+sudo apt install ros-humble-turtlebot3-msgs -y
+sudo apt install ros-humble-turtlebot3 -y
+
 ```
 **2. Set up workspace**
 ```
