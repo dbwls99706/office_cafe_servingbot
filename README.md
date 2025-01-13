@@ -3,6 +3,7 @@
 Gazebo와 Rviz2를 활용하여 사내 카페와 서빙 로봇을 결합한 커피 배달 서비스 구축 시뮬레이션
 
 
+[프로젝트 기록](https://velog.io/@cherry0319/%EC%82%AC%EB%82%B4-%EC%B9%B4%ED%8E%98-%EC%84%9C%EB%B9%99-%EB%A1%9C%EB%B4%87-%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98) 
 
 <br>
 
