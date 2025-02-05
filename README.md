@@ -19,7 +19,7 @@ Gazebo와 Rviz2를 활용하여 사내 카페와 서빙 로봇을 결합한 커�
 -------------
 * Language : Python3
 * OS : Linux Ubuntu 22.04 jammy
-* Skills : ROS2 Humble, Gazebo11, Rviz2, Nav2, Turtlebo3 Packages, PyQT5, SQLite3
+* Skills : ROS2 Humble, Gazebo11, Rviz2, SLAM, Nav2, Turtlebo3 Packages, PyQT5, SQLite3
 
   
 <br>
