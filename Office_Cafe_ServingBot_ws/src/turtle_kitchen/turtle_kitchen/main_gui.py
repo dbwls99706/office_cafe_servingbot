@@ -14,7 +14,7 @@ class ROS2Thread(QThread):
     total_revenue_updated = pyqtSignal(int)
     order_data_updated = pyqtSignal(str)
     robot_status_updated = pyqtSignal(str)
-    order_start_updated = pyqtSignal(str)  
+    order_start_updated = pyqtSignal(str)
 
     def __init__(self):
         super().__init__()
